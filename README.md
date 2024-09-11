@@ -1,4 +1,3 @@
-<img width="1488" alt="图片" src="https://github.com/user-attachments/assets/979c6f10-e52c-4354-9264-f5d4857a23a1">
 1.安装依赖  pip install selenium webdriver-manager tqdm
 
 2.在py脚本所在文件夹下，创建targets.txt文件，运行脚本即可。
@@ -14,5 +13,6 @@
 
 运行截图：
 
-<img width="1488" alt="图片" src="https://github.com/user-attachments/assets/979c6f10-e52c-4354-9264-f5d4857a23a1">
 
+
+![1](https://github.com/user-attachments/assets/419e83ef-cc3f-49ec-97ec-f384ff5d01d8)
